@@ -3,7 +3,10 @@
 A Power BI project to analyze and visualize employee data, uncover trends, and predict factors contributing to employee attrition.
 
 ---
+## 🔹 Dashboard Preview
+![HR Analytics Dashboard](dashboard.png)
 
+---
 ## 🔹 Overview
 This project focuses on analyzing employee data to understand patterns behind **employee attrition**.  
 It provides interactive dashboards for HR managers to make informed decisions and reduce turnover.
